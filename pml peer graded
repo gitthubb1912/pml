@@ -5,7 +5,7 @@ output:
     keep_md: yes
     theme: united
   pdf_document:
-    highlight: Aditya Tandon
+    highlight: Akshat Singh
 date: "oct-8-2022"
 ---
 
